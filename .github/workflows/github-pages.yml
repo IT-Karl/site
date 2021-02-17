@@ -18,8 +18,8 @@ jobs:
           ${{ runner.os }}-gems-
 
     # Specify the target branch (optional)
-    - uses: helaili/jekyll-action@v2
+    - uses: helaili/jekyll-action@v2.0.6
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
-        keep_files: 'CNAME'
+        custom_domain: 'itkarl.ru'
