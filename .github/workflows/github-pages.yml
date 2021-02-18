@@ -22,4 +22,4 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
-        custom_domain: 'itkarl.ru'
+        keep_history: true
