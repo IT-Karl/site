@@ -31,8 +31,6 @@ sass:
   style: compressed
 plugins:
   - jekyll-feed
-
-gems:
   - jekyll-paginate
   - jekyll/tagging
 
