@@ -19,8 +19,8 @@ email: itkarlit@gmail.com
 description: Новости IT в текущей экономической системе.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://itkarl.ru"
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 markdown: kramdown
@@ -58,6 +58,13 @@ defaults:
 authors:
   dtf:
     name:             DTF
+    bio:              Это платформа для обсуждения игр, кино, разработки и технологий. У площадки нет консолидированной позиции, здесь собираются люди с разными мнениями и взглядами на одни и те же продукты развлекательной индустрии.
     gravatar:         https://avatars.mds.yandex.net/get-dialogs/1017510/b66dd0fb252ea39fa4fc/orig
     email:            play@dtf.ru
     website:          https://dtf.ru
+  rbc:
+    name:             РБК
+    bio:              Ведущий мультимедийный холдинг России. Компания ведет операционную деятельность в сегментах интернет, телевидения и прессы. РБК – лидер среди новостных и бизнес-медиа, а также в сегменте регистрации доменов и хостинга. 
+    gravatar:         https://s.rbk.ru/v10_rbcnews_static/common/current/images/logo.svg
+    email:            letters@rbc.ru
+    website:          https://www.rbc.ru/
