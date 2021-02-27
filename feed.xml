@@ -21,8 +21,8 @@ layout: null
           <description>{{ post.content | xml_escape }}</description>
         {% endif %}
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>https://t.me/iv?url={{ post.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}&rhash=f31176da442ed7</link>
-        <guid isPermaLink="true">https://t.me/iv?url={{ post.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}&rhash=f31176da442ed7</guid>
+        <link>https://t.me/iv?rhash=f31176da442ed7&url={{ post.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}</link>
+        <guid isPermaLink="true">https://t.me/iv?rhash=f31176da442ed7&url={{ post.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}</guid>
       </item>
     {% endfor %}
 
