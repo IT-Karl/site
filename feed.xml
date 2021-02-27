@@ -15,14 +15,9 @@ layout: null
     {% for post in site.posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        {% if post.telegram %}
-          <description>{{ post.telegram | xml_escape }}</description>
-        {% else %}
-          <description>{{ post.content | xml_escape }}</description>
-        {% endif %}
+        <description>{% if post.telegram %}{{ post.telegram | xml_escape }}{% else %}{{ post.content | xml_escape }}{% endif %}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url | prepend: "https://t.me/iv?rhash=f31176da442ed7&url=" | cgi_escape }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url | prepend: "https://t.me/iv?rhash=f31176da442ed7&url=" | cgi_escape }}</guid>
+        <link>https://t.me/iv?rhash=f31176da442ed7&amp;url={{ post.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}</link>
       </item>
     {% endfor %}
 
