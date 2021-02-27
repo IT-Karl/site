@@ -5,8 +5,8 @@
     <description>Новости IT в текущей экономической системе.</description>
     <link>https://itkarl.ru/</link>
     <atom:link href="https://itkarl.ru/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Feb 2021 13:30:41 +0000</pubDate>
-    <lastBuildDate>Sat, 27 Feb 2021 13:30:41 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Feb 2021 13:30:57 +0000</pubDate>
+    <lastBuildDate>Sat, 27 Feb 2021 13:30:57 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
 
     
@@ -32,8 +32,6 @@
 
     
       
-    
-      
         
       
     
@@ -48,26 +46,6 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
 </description>
             <link>https://itkarl.ru/about.html</link>
-          </item>
-        
-      
-    
-      
-        
-          <item>
-            <title>About</title>
-            <description>&lt;p&gt;This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;jekyllrb.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;You can find the source code for Minima at GitHub:
-&lt;a href=&quot;https://github.com/jekyll&quot;&gt;jekyll&lt;/a&gt; /
-&lt;a href=&quot;https://github.com/jekyll/minima&quot;&gt;minima&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;You can find the source code for Jekyll at GitHub:
-&lt;a href=&quot;https://github.com/jekyll&quot;&gt;jekyll&lt;/a&gt; /
-&lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;jekyll&lt;/a&gt;&lt;/p&gt;
-
-</description>
-            <link>https://itkarl.ru/about/</link>
           </item>
         
       
