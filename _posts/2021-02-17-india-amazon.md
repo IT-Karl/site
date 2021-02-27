@@ -1,6 +1,6 @@
 ---
 featured: true
-author: 
+author: dtf
 image: 'https://pbs.twimg.com/media/DlTX-Q5XcAA4NkM.jpg'
 layout: post
 title:  "Amazon открыла в Индии фабрику по производству ТВ-стиков Fire TV"
