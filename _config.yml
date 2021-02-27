@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll/tagging
+  - jekyll-twitter-plugin
 
 include:
   - _pages
