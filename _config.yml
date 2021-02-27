@@ -69,3 +69,9 @@ authors:
     gravatar:         https://s.rbk.ru/v10_rbcnews_static/common/current/images/logo.svg
     email:            letters@rbc.ru
     website:          https://www.rbc.ru/
+  vc:
+    name: VC
+    bio: крупнейшая в рунете платформа для предпринимателей и высококвалифицированных специалистов малых, средних и крупных компаний. Каждый день, то есть без выходных, у нас публикуются ключевые новости, мнения, обзоры и аналитика. 
+    gravatar: https://telegramim.ru/img/smmrussiabot
+    email: secret@vc.ru
+    website: https://vc.ru
