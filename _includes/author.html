@@ -36,12 +36,20 @@
         </li>
       {% endif %}
 
-      {% if author.website %}
+      {% if page.original %}
         <li class='c-author-links__item'>
-          <a href='{{ author.website }}'>
+          <a href='{{ page.original }}'>
             <span class='c-author-links__icon' data-icon='ei-link' data-size='s'></span>
           </a>
         </li>
+      {% else %}
+        {% if author.website %}
+          <li class='c-author-links__item'>
+            <a href='{{ author.website }}'>
+              <span class='c-author-links__icon' data-icon='ei-link' data-size='s'></span>
+            </a>
+          </li>
+        {% endif %}
       {% endif %}
     </ul>
   </div>
