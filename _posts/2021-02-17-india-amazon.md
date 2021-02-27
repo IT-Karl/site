@@ -1,7 +1,10 @@
 ---
+featured: true
+author: ahmad
+image: ''
 layout: post
 title:  "Amazon открыла в Индии фабрику по производству ТВ-стиков Fire TV"
-categories: amazon
+tags: [amazon]
 ---
 Таким образом и Индия, и американская компания стремятся к экономической независимости.
 
