@@ -2,6 +2,7 @@
 author: rbc
 image: 'https://img.ibxk.com.br/2015/04/29/29114649297452.jpg'
 layout: post
+original: 'https://www.rbc.ru/rbcfreenews/6033fc7b9a7947888c95ae58'
 title:  "Google снимет введеный после штурма Капитолия запрет на политагитацию"
 tags: [google, цензура, пропаганда]
 ---
