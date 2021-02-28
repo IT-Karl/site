@@ -1,10 +1,11 @@
 ---
 author: dtf
-image: 'https://i.ytimg.com/vi/9ST4k1y6mgs/maxresdefault.jpg'
+image: '/img/2021-02-26-twitch-amazon.jpg'
 layout: post
 original: 'https://dtf.ru/life/655141-na-twitch-zametili-agitacionnye-antiprofsoyuznye-video-ot-amazon'
 title:  "На Twitch заметили агитационные антипрофсоюзные видео от Amazon"
 tags: [amazon, twitch, профсоюзы]
+telegram: 'Агитационные проморолики от Amazon заметили зрители Twitch. В этих коротких видео сотрудники Amazon говорят о том, как им хорошо работается в компании и о том, что им не нужно объединяться в профсоюзы.'
 ---
 Эти видео продвигают идею об отказе рабочих от объединения в профсоюзы.
 
