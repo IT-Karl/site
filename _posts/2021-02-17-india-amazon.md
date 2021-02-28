@@ -1,7 +1,7 @@
 ---
 featured: true
 author: dtf
-image: 'https://pbs.twimg.com/media/DlTX-Q5XcAA4NkM.jpg'
+image: '/img/2021-02-17-india-amazon.jpg'
 layout: post
 original: 'https://dtf.ru/hard/645643-amazon-otkryla-v-indii-fabriku-po-proizvodstvu-tv-stikov-fire-tv'
 title:  "Amazon открыла в Индии фабрику по производству ТВ-стиков Fire TV"
