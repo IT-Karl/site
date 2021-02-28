@@ -10,6 +10,10 @@ layout: default
   <meta itemprop='og:image' content='{{ base_path }}{{ page.image }}'>
 {% endif %}
 
+{% if page.last_modified_at %}
+  <meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">
+{% endif %}
+
 <div class='o-wrapper'>
 
   <div class='o-grid'>
