@@ -76,3 +76,9 @@ authors:
     gravatar: https://telegramim.ru/img/smmrussiabot
     email: secret@vc.ru
     website: https://vc.ru
+  vedomosti:
+    name: ВЕДОМОСТИ
+    bio: Рекламно-информационное приложение к газете «Ведомости». Современная ежедневная деловая газета, выходит с 1999 года. В газете представлена информация об экономических, финансовых, корпоративных и политических событиях, анализ и прогнозы развития ситуации.
+    gravatar: https://fvlaw.ru/storage/1589722279__exact_536x536_1583263226__unnamed-2.jpg
+    email: info@vedomosti.ru
+    website: https://www.vedomosti.ru/
