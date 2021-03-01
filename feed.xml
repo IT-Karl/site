@@ -5,15 +5,23 @@
     <description>Новости IT в текущей экономической системе.</description>
     <link>https://itkarl.ru/</link>
     <atom:link href="https://itkarl.ru/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Mar 2021 12:00:36 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Mar 2021 12:00:36 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Mar 2021 12:31:33 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Mar 2021 12:31:33 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
 
     
       <item>
+        <title>Связанный с Потаниным фонд инвестировал в тренажеры для врачей</title>
+        <description>Фонд Winter Capital, соучредителем и крупнейшим участником которого является бизнесмен Владимир Потанин, приобрел 20% акций компании DocClub, занимающейся разработкой тренажера-симулятора для врачей, рассказали представители фонда и компании.</description>
+        <!--pubDate>Mon, 01 Mar 2021 12:27:12 +0000</pubDate-->
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        <link>https://t.me/iv?rhash=f31176da442ed7&amp;url=https%3A%2F%2Fitkarl.ru%2F2021%2F03%2F01%2Fpotanin%2F</link>
+      </item>
+    
+      <item>
         <title>VGC: Sony решила постепенно распустить большую часть Japan Studio</title>
         <description>Команда, которая разработала игры вроде Gravity Rush и Knack, в последние годы не выпускала хиты, и потому компания решила не продлевать контракты с её сотрудниками.</description>
-        <!--pubDate>Mon, 01 Mar 2021 11:56:08 +0000</pubDate-->
+        <!--pubDate>Mon, 01 Mar 2021 12:27:12 +0000</pubDate-->
         <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
         <link>https://t.me/iv?rhash=f31176da442ed7&amp;url=https%3A%2F%2Fitkarl.ru%2F2021%2F02%2F28%2Fsony%2F</link>
       </item>
@@ -21,7 +29,7 @@
       <item>
         <title>Владелец TikTok заплатит $92 млн для урегулирования иска о сборе личных данных в США</title>
         <description>ByteDance согласилась выплатить $92 млн для урегулирования коллективного иска, который утверждал, что приложение собирало персональные данные пользователей.</description>
-        <!--pubDate>Mon, 01 Mar 2021 11:56:08 +0000</pubDate-->
+        <!--pubDate>Mon, 01 Mar 2021 12:27:12 +0000</pubDate-->
         <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
         <link>https://t.me/iv?rhash=f31176da442ed7&amp;url=https%3A%2F%2Fitkarl.ru%2F2021%2F02%2F27%2Ftiktok%2F</link>
       </item>
@@ -29,7 +37,7 @@
       <item>
         <title>На Twitch заметили агитационные антипрофсоюзные видео от Amazon</title>
         <description>Агитационные проморолики от Amazon заметили зрители Twitch. В этих коротких видео сотрудники Amazon говорят о том, как им хорошо работается в компании и о том, что им не нужно объединяться в профсоюзы.</description>
-        <!--pubDate>Mon, 01 Mar 2021 11:56:08 +0000</pubDate-->
+        <!--pubDate>Mon, 01 Mar 2021 12:27:12 +0000</pubDate-->
         <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
         <link>https://t.me/iv?rhash=f31176da442ed7&amp;url=https%3A%2F%2Fitkarl.ru%2F2021%2F02%2F26%2Ftwitch-amazon%2F</link>
       </item>
@@ -37,7 +45,7 @@
       <item>
         <title>Google снимет введеный после штурма Капитолия запрет на политагитацию</title>
         <description>Google возобновит с 24 февраля разрешение на размещение политической рекламы, которое было временно остановлено после беспорядков 6 января в Капитолии.</description>
-        <!--pubDate>Mon, 01 Mar 2021 11:56:08 +0000</pubDate-->
+        <!--pubDate>Mon, 01 Mar 2021 12:27:12 +0000</pubDate-->
         <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
         <link>https://t.me/iv?rhash=f31176da442ed7&amp;url=https%3A%2F%2Fitkarl.ru%2F2021%2F02%2F26%2Ftrump-google%2F</link>
       </item>
@@ -45,7 +53,7 @@
       <item>
         <title>Amazon открыла в Индии фабрику по производству ТВ-стиков Fire TV</title>
         <description>Amazon открыла фабрику в индийском городе Ченнаи в сотрудничестве с тайваньской Foxconn. Amazon инвестировала миллиард долларов в цифровизацию 10 миллионов местных предприятий. Такие инвестиции обусловлены торговой войной между США и Китаем — Индию многие технологические компании рассматривают как перспективную альтернативу китайскому производству.</description>
-        <!--pubDate>Mon, 01 Mar 2021 11:56:08 +0000</pubDate-->
+        <!--pubDate>Mon, 01 Mar 2021 12:27:12 +0000</pubDate-->
         <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
         <link>https://t.me/iv?rhash=f31176da442ed7&amp;url=https%3A%2F%2Fitkarl.ru%2F2021%2F02%2F17%2Findia-amazon%2F</link>
       </item>
